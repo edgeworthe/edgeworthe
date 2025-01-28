@@ -1,7 +1,7 @@
 `NERVE-WRACKING ADVENTURE!`
 
 This is where I do some open-source work but mostly it's my own 
-personal projects rather than professional work.
+personal projects rather than professional work
 
 <!--
 **edgeworthe/edgeworthe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
